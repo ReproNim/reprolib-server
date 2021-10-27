@@ -1,6 +1,6 @@
 sanic==19.6.3
 Sanic-Cors==0.9.9.post3
-Jinja2==2.10.1
+Jinja2==2.11.3
 sanic-jinja2==0.7.5
 PyLD==1.0.5
 # PyGithub
